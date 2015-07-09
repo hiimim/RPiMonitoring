@@ -4,7 +4,7 @@ Raspberry Pi monitoring with Twitter.
 Uptime, CPU usage, CPU temp, RAM usage and Processes.
 
 ## Requirements
-Create a [Twitter app](https://apps.twitter.com/).
+A [Twitter app](https://apps.twitter.com/) (!).
 
 python-dev package (needed to install psutil) for Raspbian « Wheezy » `sudo apt-get install python-dev`.
 
